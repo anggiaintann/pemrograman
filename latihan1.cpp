@@ -25,5 +25,4 @@ int main()
         status = "ganjil";
     // display "bilangannya = " + status
     cout << "bilangannya = " << status;
-
 } // end
